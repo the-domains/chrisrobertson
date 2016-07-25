@@ -1,0 +1,28 @@
+name: ChrisRobertson
+favicon: null
+layout_spectrum: 0.7732912125065923
+typography_spectrum: 0.5951937707141042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3861461402848363
+  lightness: 0.2484025782905519
+  saturation: 0.7190603029448539
+  rhythmicContrast: 0.6331523070111871
+purpose: []
